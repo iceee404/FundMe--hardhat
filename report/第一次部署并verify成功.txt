@@ -1,0 +1,18 @@
+root@DESKTOP-HLJ7FL8:/mnt/c/ChainLink/hh-fcc/hardhat-fund-me-fcc# yarn hardhat deploy --network goerli
+yarn run v1.22.15
+warning package.json: No license field
+$ /mnt/c/ChainLink/hh-fcc/hardhat-fund-me-fcc/node_modules/.bin/hardhat deploy --network goerli
+Nothing to compile
+----------------------------------------------------
+Deploying FundMe and waiting for confirmations...
+reusing "FundMe" at 0xFBf3D710B6c950539128Ac5dCA9cab1962c6F07c
+FundMe deployed at 0xFBf3D710B6c950539128Ac5dCA9cab1962c6F07c
+Verifying contract...
+Nothing to compile
+Successfully submitted source code for contract
+contracts/FundMe.sol:FundMe at 0xFBf3D710B6c950539128Ac5dCA9cab1962c6F07c
+for verification on the block explorer. Waiting for verification result...
+
+Successfully verified contract FundMe on Etherscan.
+http://goerli.etherscan.io/address/0xFBf3D710B6c950539128Ac5dCA9cab1962c6F07c#code
+Done in 86.12s.
